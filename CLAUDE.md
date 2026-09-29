@@ -7,7 +7,7 @@
 
 ## Coding Guidelines
 - Code must be clean, modular, and easy to test manually.
-- Before writing or modifying any code, strictly consult `REQUIREMENTS.md` as the single source of truth.
+- Before writing or modifying any code, strictly consult `docs/REQUIREMENTS.md` as the single source of truth.
 - Use a simple and intuitive User Interface (UI) that covers all required flows without overcomplicating the design.
 
 ## Out of Scope Constraints
